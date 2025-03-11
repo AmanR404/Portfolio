@@ -3,7 +3,7 @@ import React from 'react'
 const About = () => {
   return (
     <section id='about' className='flex flex-col mx-4 lg:mx-44 mt-24'>
-      <span className='font-sans text-5xl font-bold text-center lg:text-start'>About me</span>
+      <span className='font-sans text-5xl font-bold text-center lg:text-start lg:ml-1'>About me</span>
       <div className='flex flex-col md:flex-row gap-2 md:gap-56 px-3'>
         <p className='w-[95%] text-center md:text-start md:w-[70%] text-2xl mt-8'>Web Developer with expertise of React.js, Next.js, Tailwind, HTML and CSS. currently learning Backend for Web Applications.
         <br /><br />
